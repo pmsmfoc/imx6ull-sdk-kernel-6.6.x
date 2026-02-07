@@ -8,6 +8,7 @@
 #define _LINUX_BITFIELD_H
 
 #include <linux/build_bug.h>
+#include <linux/byteorder/little_endian.h>
 #include <asm/byteorder.h>
 
 /*
